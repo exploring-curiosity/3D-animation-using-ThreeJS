@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.tetris{
+  position:absolute;
+  background:rgba(100,100,100,0.5);
+  color:white;
+  border:1px solid white;
+  border-radius: 50px;
+  width:25%;
+  height:70%;
+  transform: translate(50%,20%);
+  text-align: center;
+}
